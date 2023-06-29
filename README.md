@@ -12,7 +12,7 @@ Assembled by Dayuppy - 05.15.2020
 
 # Toolkit Download: 
 
-[[https://www.dropbox.com/s/o7dbk4kfc2jjobk/DarkCloud\_Toolkit.zip?dl=1](https://github.com/Gundorada-Workshop/DarkCloud-Toolkit/releases/download/Releases/DarkCloud_Toolkit.zip)]
+[https://github.com/Gundorada-Workshop/DarkCloud-Toolkit/releases/download/Releases/DarkCloud_Toolkit.zip](https://github.com/Gundorada-Workshop/DarkCloud-Toolkit/releases/download/Releases/DarkCloud_Toolkit.zip)
 
 Overview
 ========
